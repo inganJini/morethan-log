@@ -7,8 +7,8 @@ const CONFIG = {
     bio: '안녕하세요 백엔드 개발자 양갑진입니다.',
     email: 'doublevaluable@gmail.com',
     linkedin: '',
-    github: 'www.github.com/inganJini',
-    instagram: 'https://instagram.com/inganjini?igshid=MjEwN2IyYWYwYw==',
+    github: 'inganJini',
+    instagram: 'inganjini?igshid=MjEwN2IyYWYwYw==',
   },
   projects: [
     {
