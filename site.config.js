@@ -8,7 +8,7 @@ const CONFIG = {
     email: 'doublevaluable@gmail.com',
     linkedin: '',
     github: 'www.github.com/inganJini',
-    instagram: '',
+    instagram: 'https://instagram.com/inganjini?igshid=MjEwN2IyYWYwYw==',
   },
   projects: [
     {
